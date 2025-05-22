@@ -1,2 +1,2 @@
 # miniFood101
-Trying out PyTorch for Vision
+Trying out PyTorch for Vision!
